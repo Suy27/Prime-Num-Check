@@ -13,7 +13,7 @@ def is_prime(number: int) -> bool:
     for divisor in range(2, int(number ** 0.5) + 1):
         if number % divisor == 0:
             return False
-        return True
+    return True
 
 def main():
     try:
@@ -24,3 +24,6 @@ def main():
             print(f"{number} is not a prime number.")
     except ValueError:
         print("Invalid input. Please enter an integer.")
+
+if __name__ == "__main__":
+    main()
