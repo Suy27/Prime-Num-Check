@@ -35,13 +35,13 @@ Includes both the original version and a refactored version written with clean c
 ### ▶️ Run the script:
 
 **Original version:**
-```bash
-python Prime_Check.py
-```
+
+[python Prime_Check.py](https://github.com/Suy27/Prime-Num-Check/blob/main/Prime_Check.py)
+
 **Refactored version:**
-```bash
-python prime_refactored.py
-```
+
+[python prime_refactored.py](https://github.com/Suy27/Prime-Num-Check/blob/refactor/clean-code/prime_refactored.py)
+
 ### 🧼 Clean Code Principles Used
 
    - Single-responsibility functions
